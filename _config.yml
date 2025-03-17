@@ -22,7 +22,7 @@ repository               : "zifangkong/zifangkong.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "heashot_ZK.jpeg"
+  avatar           : "heashot.jpg"
   name             : "Zifang Kong"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candicate in Statistics"
