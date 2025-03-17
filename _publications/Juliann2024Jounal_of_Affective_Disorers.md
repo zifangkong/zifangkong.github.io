@@ -3,12 +3,12 @@ title: "Associations between vicarious discrimination and mental health among yo
 collection: publications
 category: manuscripts
 permalink: /publication/Juliann2024Jounal_of_Affective_Disorers
-excerpt: # 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-09-15
 venue: 'Journal of Affective Disorders'
 # slidesurl: # 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0165032724010140'
-citation: 'Li Verdugo, J., Kong, Z., Sembukutti Liyanage, D. S., Keum, B. T., Moody, M. D., & Oh, H. Y. (2024). Associations between vicarious discrimination and mental health among young adult college students: Findings from the 2020-2021 Healthy Minds Study. <i>Journal of affective disorders</i>, 361, 760–767. https://doi.org/10.1016/j.jad.2024.06.082.'
+citation: 'Li Verdugo, J., Kong, Z., Sembukutti Liyanage, D. S., Keum, B. T., Moody, M. D., & Oh, H. Y. (2024). Associations between vicarious discrimination and mental health among young adult college students: Findings from the 2020-2021 Healthy Minds Study. <i>Journal of Affective Disorders</i>, 361, 760–767. https://doi.org/10.1016/j.jad.2024.06.082.'
 ---
 
 Background: Poor mental health among young adults in higher education is a growing concern. In recent years, the visibility of racism has sharply risen. Vicarious discrimination is defined as the secondhand witnessing of racism, and given society's increased accessibility to social media and the Internet, addressing indirect violence is urgently needed to inform anti-racism and mental health efforts. The current study examined associations between vicarious discrimination and mental health across a large sample of young college students in the United States.
