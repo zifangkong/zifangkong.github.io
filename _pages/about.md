@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "title here "
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 This is the front page including a self-introduction.
+
+
 
 News
 ------
