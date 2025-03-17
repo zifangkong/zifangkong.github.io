@@ -11,26 +11,22 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Statistics, Southern Methodist University, 2025 (expected)
+* B.A. in Mathemtics, Mercyhurst University, 2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
+* Graduate Research Assistant
+  * University of Texas Southwestern Medical Center
   * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Advisor: Dr. Yu-Lun Liu
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Teaching Assistant
+  * Southern Methodist University
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Statistical Consultant
+  * Southern Methodist University
+
   
 Skills
 ======
