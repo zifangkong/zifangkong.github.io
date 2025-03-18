@@ -16,6 +16,11 @@ main:
 
   - title: "Projects"
     url: /projects/  
+    children:
+      - title: "Project 1"
+        url: /shinyapp1/
+      - title: "Poroject 2"
+        url: /shinyapp2/
     
   # - title: "Portfolio"
   #   url: /portfolio/
